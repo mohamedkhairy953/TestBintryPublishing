@@ -1,0 +1,3 @@
+rootProject.name = "TestBintryPublishing"
+include ':app'
+include ':mylib'
